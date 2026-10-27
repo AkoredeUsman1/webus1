@@ -1,0 +1,479 @@
+- generic [ref=f5e3]:
+  - banner [ref=f5e4]:
+    - generic [ref=f5e5]:
+      - link "Webgaze home":
+        - /url: "#"
+      - button "Open menu" [ref=f5e6]
+  - generic [ref=f5e11]:
+    - heading "We build modern brands & digital experiences." [level=1] [ref=f5e12]
+    - paragraph [ref=f5e13]:
+      - text: Designed to
+      - generic [ref=f5e14]:
+        - generic [ref=f5e15]: deliver results., build trust., drive growth.
+        - generic [aria-hidden] [ref=f5e16]: "|"
+    - paragraph [ref=f5e17]: Brands that hold their own.Websites that pull their weight.
+    - generic [ref=f5e18]:
+      - link "Start a project" [ref=f5e19] [cursor=pointer]:
+        - /url: "#"
+        - text: Start a project
+        - generic [aria-hidden] [ref=f5e20]: →
+      - link "See our work" [ref=f5e21] [cursor=pointer]:
+        - /url: "#"
+        - text: See our work
+        - generic [aria-hidden] [ref=f5e22]: →
+  - generic [ref=f5e24]:
+    - paragraph [ref=f5e25]: TRUSTED BYORGANISATIONSACROSS AUSTRALIA
+    - generic [ref=f5e27]:
+      - img "V'Ride Energy Africa" [ref=f5e29]:
+        - generic [ref=f5e33]: V'RIDE
+        - generic [ref=f5e34]: ENERGY AFRICA
+      - img "Camden" [ref=f5e36]:
+        - generic [ref=f5e40]: CAMDEN
+      - img "Care Partners" [ref=f5e42]:
+        - generic [ref=f5e46]: CARE
+        - generic [ref=f5e47]: PARTNERS
+      - img "AGCCI" [ref=f5e49]:
+        - generic [ref=f5e56]: AUSTRALIA-GHANA CHAMBER OF COMMERCE
+        - generic [ref=f5e57]: AND INDUSTRY
+      - img "Sobaha" [ref=f5e59]
+      - img "V'Ride Energy Africa" [ref=f5e62]:
+        - generic [ref=f5e66]: V'RIDE
+        - generic [ref=f5e67]: ENERGY AFRICA
+      - img "Camden" [ref=f5e69]:
+        - generic [ref=f5e73]: CAMDEN
+      - img "Care Partners" [ref=f5e75]:
+        - generic [ref=f5e79]: CARE
+        - generic [ref=f5e80]: PARTNERS
+      - img "AGCCI" [ref=f5e82]:
+        - generic [ref=f5e89]: AUSTRALIA-GHANA CHAMBER OF COMMERCE
+        - generic [ref=f5e90]: AND INDUSTRY
+      - img "Sobaha" [ref=f5e92]
+      - img "V'Ride Energy Africa" [ref=f5e95]:
+        - generic [ref=f5e99]: V'RIDE
+        - generic [ref=f5e100]: ENERGY AFRICA
+      - img "Camden" [ref=f5e102]:
+        - generic [ref=f5e106]: CAMDEN
+      - img "Care Partners" [ref=f5e108]:
+        - generic [ref=f5e112]: CARE
+        - generic [ref=f5e113]: PARTNERS
+      - img "AGCCI" [ref=f5e115]:
+        - generic [ref=f5e122]: AUSTRALIA-GHANA CHAMBER OF COMMERCE
+        - generic [ref=f5e123]: AND INDUSTRY
+      - img "Sobaha" [ref=f5e125]
+      - img "V'Ride Energy Africa" [ref=f5e128]:
+        - generic [ref=f5e132]: V'RIDE
+        - generic [ref=f5e133]: ENERGY AFRICA
+      - img "Camden" [ref=f5e135]:
+        - generic [ref=f5e139]: CAMDEN
+      - img "Care Partners" [ref=f5e141]:
+        - generic [ref=f5e145]: CARE
+        - generic [ref=f5e146]: PARTNERS
+      - img "AGCCI" [ref=f5e148]:
+        - generic [ref=f5e155]: AUSTRALIA-GHANA CHAMBER OF COMMERCE
+        - generic [ref=f5e156]: AND INDUSTRY
+      - img "Sobaha" [ref=f5e158]
+  - generic [ref=f5e162]:
+    - generic [ref=f5e163]:
+      - heading "Everything You Need to Build a Strong Online Presence" [level=2] [ref=f5e164]
+      - paragraph [ref=f5e165]: From strategy and design to optimisation and ongoing support, our services work together to help your business grow online — with clarity and confidence at every step.
+      - generic [ref=f5e166]:
+        - link "Contact Us" [ref=f5e167] [cursor=pointer]:
+          - /url: "#contact"
+        - link "Request a Proposal" [ref=f5e168] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f5e169]:
+      - generic [ref=f5e171]:
+        - heading "Web Design & Development" [level=3] [ref=f5e172]
+        - paragraph [ref=f5e173]: At WebGaze, we design and build websites that work for your business. Every site is carefully designed and built to help your brand stand out, perform well online, and connect with the right audience.
+        - generic [ref=f5e174]:
+          - generic [ref=f5e175]: React.JS
+          - generic [ref=f5e176]: E-Commerce
+          - generic [ref=f5e177]: WordPress
+        - generic [ref=f5e178]:
+          - link "Learn more →" [ref=f5e179] [cursor=pointer]:
+            - /url: "#"
+          - link "View Our Work →" [ref=f5e180] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f5e182]:
+        - heading "AI & Custom Business Systems" [level=3] [ref=f5e183]
+        - paragraph [ref=f5e184]: We build custom tools, internal apps, automations, and AI-assisted systems that solve real business problems — from tracking work to managing learning, chats, records, and daily operations.
+        - generic [ref=f5e185]:
+          - generic [ref=f5e186]: AI Tools
+          - generic [ref=f5e187]: Automation
+          - generic [ref=f5e188]: Custom Apps
+        - generic [ref=f5e189]:
+          - link "Learn more →" [ref=f5e190] [cursor=pointer]:
+            - /url: "#"
+          - link "View Our Work →" [ref=f5e191] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f5e193]:
+        - heading "Visual Branding" [level=3] [ref=f5e194]
+        - paragraph [ref=f5e195]: Visual branding is how people recognise your brand. We create cohesive brand visuals — from logos to colour systems — that help your business stand out, stay consistent, and connect with the right audience.
+        - generic [ref=f5e196]:
+          - generic [ref=f5e197]: Graphic Design
+          - generic [ref=f5e198]: Logo Design
+          - generic [ref=f5e199]: Brand Guide
+        - generic [ref=f5e200]:
+          - link "Learn more →" [ref=f5e201] [cursor=pointer]:
+            - /url: "#"
+          - link "View Our Work →" [ref=f5e202] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f5e204]:
+        - heading "Website Maintenance" [level=3] [ref=f5e205]
+        - paragraph [ref=f5e206]: Every website needs ongoing maintenance to stay secure, fast, and up to date. Regular care helps prevent issues and ensures a smooth experience for your users.
+        - generic [ref=f5e207]:
+          - generic [ref=f5e208]: Security
+          - generic [ref=f5e209]: Updates
+          - generic [ref=f5e210]: Backups
+        - generic [ref=f5e211]:
+          - link "Learn more →" [ref=f5e212] [cursor=pointer]:
+            - /url: "#"
+          - link "View Our Work →" [ref=f5e213] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f5e215]:
+        - heading "Search Engine Optimisation" [level=3] [ref=f5e216]
+        - paragraph [ref=f5e217]: A strong SEO strategy helps your website get found by the right people. We optimise your site to improve visibility, attract relevant traffic, and support a smooth user experience.
+        - generic [ref=f5e218]:
+          - generic [ref=f5e219]: On-Page SEO
+          - generic [ref=f5e220]: Keyword Research
+          - generic [ref=f5e221]: Analytics
+        - generic [ref=f5e222]:
+          - link "Learn more →" [ref=f5e223] [cursor=pointer]:
+            - /url: "#"
+          - link "View Our Work →" [ref=f5e224] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f5e226]:
+        - heading "Consulting & Audit" [level=3] [ref=f5e227]
+        - paragraph [ref=f5e228]: Our website consultation and audit services help you understand what's working and what needs improvement. We review your site's performance, security, design, and SEO.
+        - generic [ref=f5e229]:
+          - generic [ref=f5e230]: SEO Audit
+          - generic [ref=f5e231]: Security Audit
+          - generic [ref=f5e232]: UI/UX Audit
+        - generic [ref=f5e233]:
+          - link "Learn more →" [ref=f5e234] [cursor=pointer]:
+            - /url: "#"
+          - link "View Our Work →" [ref=f5e235] [cursor=pointer]:
+            - /url: "#"
+  - generic [ref=f5e237]:
+    - generic [ref=f5e238]:
+      - paragraph [ref=f5e239]: Selected work
+      - heading "Projects that speak for themselves." [level=2] [ref=f5e240]: Projects thatspeak for themselves.
+      - paragraph [ref=f5e241]: A selection of recent websites, brand systems, and digital experiences for clients across Australia and beyond.
+    - generic [ref=f5e243]:
+      - link "View Care Partners Australia" [ref=f5e245] [cursor=pointer]:
+        - /url: /projects/care-partners-australia
+        - generic [ref=f5e246]:
+          - img "Care Partners Australia" [ref=f5e247]
+          - generic [ref=f5e248]: "01"
+        - generic [ref=f5e249]:
+          - paragraph [ref=f5e250]: Web Design · Branding · UI/UX
+          - heading "Care Partners Australia" [level=3] [ref=f5e251]
+          - generic [ref=f5e252]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e253]: →
+      - link "View Australian Ghanaian Chamber of Commerce" [ref=f5e255] [cursor=pointer]:
+        - /url: /projects/australian-ghanaian-chamber-of-commerce
+        - generic [ref=f5e256]:
+          - img "Australian Ghanaian Chamber of Commerce" [ref=f5e257]
+          - generic [ref=f5e258]: "02"
+        - generic [ref=f5e259]:
+          - paragraph [ref=f5e260]: Web Design · Branding
+          - heading "Australian Ghanaian Chamber of Commerce" [level=3] [ref=f5e261]
+          - generic [ref=f5e262]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e263]: →
+      - link "View WINSTAMAC" [ref=f5e265] [cursor=pointer]:
+        - /url: /projects/winstamac
+        - generic [ref=f5e266]:
+          - img "WINSTAMAC" [ref=f5e267]
+          - generic [ref=f5e268]: "03"
+        - generic [ref=f5e269]:
+          - paragraph [ref=f5e270]: Web Design · UI/UX
+          - heading "WINSTAMAC" [level=3] [ref=f5e271]
+          - generic [ref=f5e272]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e273]: →
+      - link "View Sababa Global Trade & Logistics" [ref=f5e275] [cursor=pointer]:
+        - /url: /projects/sababa-global
+        - generic [ref=f5e276]:
+          - img "Sababa Global Trade & Logistics" [ref=f5e277]
+          - generic [ref=f5e278]: "04"
+        - generic [ref=f5e279]:
+          - paragraph [ref=f5e280]: Web Design · Branding
+          - heading "Sababa Global Trade & Logistics" [level=3] [ref=f5e281]
+          - generic [ref=f5e282]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e283]: →
+      - link "View Viride Energy Africa" [ref=f5e285] [cursor=pointer]:
+        - /url: /projects/viride-energy-africa
+        - generic [ref=f5e286]:
+          - img "Viride Energy Africa" [ref=f5e287]
+          - generic [ref=f5e288]: "05"
+        - generic [ref=f5e289]:
+          - paragraph [ref=f5e290]: Web Design · Development
+          - heading "Viride Energy Africa" [level=3] [ref=f5e291]
+          - generic [ref=f5e292]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e293]: →
+      - link "View Ben Ari Accounting" [ref=f5e295] [cursor=pointer]:
+        - /url: /projects/ben-ari-accounting
+        - generic [ref=f5e296]:
+          - img "Ben Ari Accounting" [ref=f5e297]
+          - generic [ref=f5e298]: "06"
+        - generic [ref=f5e299]:
+          - paragraph [ref=f5e300]: Web Design · Product Design
+          - heading "Ben Ari Accounting" [level=3] [ref=f5e301]
+          - generic [ref=f5e302]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e303]: →
+      - link "View PhytoScience Australia" [ref=f5e305] [cursor=pointer]:
+        - /url: /projects/phytoscience-australia
+        - generic [ref=f5e306]:
+          - img "PhytoScience Australia" [ref=f5e307]
+          - generic [ref=f5e308]: "07"
+        - generic [ref=f5e309]:
+          - paragraph [ref=f5e310]: Web Design · Branding
+          - heading "PhytoScience Australia" [level=3] [ref=f5e311]
+          - generic [ref=f5e312]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e313]: →
+      - link "View Petra Care Services" [ref=f5e315] [cursor=pointer]:
+        - /url: /projects/petra-care-services
+        - generic [ref=f5e316]:
+          - img "Petra Care Services" [ref=f5e317]
+          - generic [ref=f5e318]: "08"
+        - generic [ref=f5e319]:
+          - paragraph [ref=f5e320]: Web Design · UI/UX
+          - heading "Petra Care Services" [level=3] [ref=f5e321]
+          - generic [ref=f5e322]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e323]: →
+      - link "View Onboard Plumbing" [ref=f5e325] [cursor=pointer]:
+        - /url: /projects/onboard-plumbing
+        - generic [ref=f5e326]:
+          - img "Onboard Plumbing" [ref=f5e327]
+          - generic [ref=f5e328]: "09"
+        - generic [ref=f5e329]:
+          - paragraph [ref=f5e330]: Web Design · Branding
+          - heading "Onboard Plumbing" [level=3] [ref=f5e331]
+          - generic [ref=f5e332]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e333]: →
+      - link "View Janny Global" [ref=f5e335] [cursor=pointer]:
+        - /url: /projects/janny-global
+        - generic [ref=f5e336]:
+          - img "Janny Global" [ref=f5e337]
+          - generic [ref=f5e338]: "10"
+        - generic [ref=f5e339]:
+          - paragraph [ref=f5e340]: Web Design · Mobile UI
+          - heading "Janny Global" [level=3] [ref=f5e341]
+          - generic [ref=f5e342]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e343]: →
+      - link "View DownUnder Radio" [ref=f5e345] [cursor=pointer]:
+        - /url: /projects/downunder-radio
+        - generic [ref=f5e346]:
+          - img "DownUnder Radio" [ref=f5e347]
+          - generic [ref=f5e348]: "11"
+        - generic [ref=f5e349]:
+          - paragraph [ref=f5e350]: Web Design · Branding
+          - heading "DownUnder Radio" [level=3] [ref=f5e351]
+          - generic [ref=f5e352]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e353]: →
+      - link "View Salaka Dance Ensemble" [ref=f5e355] [cursor=pointer]:
+        - /url: /projects/salaka-dance-ensemble
+        - generic [ref=f5e356]:
+          - img "Salaka Dance Ensemble" [ref=f5e357]
+          - generic [ref=f5e358]: "12"
+        - generic [ref=f5e359]:
+          - paragraph [ref=f5e360]: Web Design · Branding
+          - heading "Salaka Dance Ensemble" [level=3] [ref=f5e361]
+          - generic [ref=f5e362]:
+            - text: View project
+            - generic [aria-hidden] [ref=f5e363]: →
+    - generic [ref=f5e364]:
+      - generic [ref=f5e365]:
+        - text: "01"
+        - generic [ref=f5e366]: / 12
+      - generic [ref=f5e369]:
+        - button "Previous project" [disabled] [ref=f5e370]: ←
+        - button "Next project" [ref=f5e371]: →
+    - link "See All Projects" [ref=f5e373] [cursor=pointer]:
+      - /url: "#"
+      - text: See All Projects
+      - generic [aria-hidden] [ref=f5e374]: ↗
+  - generic [ref=f5e375]:
+    - generic [ref=f5e376]:
+      - generic [ref=f5e377]: How we work
+      - heading "A process built for clarity, not chaos." [level=2] [ref=f5e378]
+      - paragraph [ref=f5e379]: From the first conversation to final delivery, every step is intentional — no guesswork, no surprises.
+    - list [ref=f5e382]:
+      - listitem [ref=f5e383]:
+        - generic [ref=f5e384]: "01"
+        - generic [ref=f5e385]:
+          - heading "Discovery & Understanding" [level=3] [ref=f5e386]
+          - paragraph [ref=f5e387]: We listen before we act.
+          - paragraph [ref=f5e388]: We get clear on your goals, your audience, and the context around the work — defining what success looks like before a single pixel moves.
+          - generic [ref=f5e389]:
+            - generic [ref=f5e390]: Kickoff Call
+            - generic [ref=f5e391]: Goals
+            - generic [ref=f5e392]: Research
+      - listitem [ref=f5e393]:
+        - generic [ref=f5e394]: "02"
+        - generic [ref=f5e395]:
+          - heading "Direction & Planning" [level=3] [ref=f5e396]
+          - paragraph [ref=f5e397]: We map the path forward.
+          - paragraph [ref=f5e398]: With the picture in place, we set scope, priorities, and the practical steps to move — keeping everything aligned, realistic, and built for results.
+          - generic [ref=f5e399]:
+            - generic [ref=f5e400]: Scope
+            - generic [ref=f5e401]: Sitemap
+            - generic [ref=f5e402]: Timeline
+      - listitem [ref=f5e403]:
+        - generic [ref=f5e404]: "03"
+        - generic [ref=f5e405]:
+          - heading "Development & Refinement" [level=3] [ref=f5e406]
+          - paragraph [ref=f5e407]: We build and iterate.
+          - paragraph [ref=f5e408]: Design, content, and systems are shaped through an iterative loop — focused on quality, consistency, and purpose at every stage.
+          - generic [ref=f5e409]:
+            - generic [ref=f5e410]: Design
+            - generic [ref=f5e411]: Build
+            - generic [ref=f5e412]: Feedback
+      - listitem [ref=f5e413]:
+        - generic [ref=f5e414]: "04"
+        - generic [ref=f5e415]:
+          - heading "Delivery & Implementation" [level=3] [ref=f5e416]
+          - paragraph [ref=f5e417]: We launch with confidence.
+          - paragraph [ref=f5e418]: We bring it together, run final checks, and hand over a site that's complete and ready to perform — with support so nothing slips.
+          - generic [ref=f5e419]:
+            - generic [ref=f5e420]: QA
+            - generic [ref=f5e421]: Launch
+            - generic [ref=f5e422]: Handover
+  - generic [ref=f5e423]:
+    - generic [ref=f5e424]:
+      - generic [ref=f5e425]: Testimonials
+      - heading "What clients think." [level=2] [ref=f5e426]
+    - generic [ref=f5e427]:
+      - text: “
+      - paragraph [ref=f5e428]: WebGaze completely transformed how we show up online. The website is clean, fast, and we're already getting more enquiries. They really understood what we needed.
+      - generic [ref=f5e429]:
+        - paragraph [ref=f5e430]: Care Partners Australia
+        - paragraph [ref=f5e431]: NDIS Service Provider
+      - generic [ref=f5e432]:
+        - button "Show testimonial 1" [ref=f5e433]
+        - button "Show testimonial 2" [ref=f5e434]
+        - button "Show testimonial 3" [ref=f5e435]
+  - generic [ref=f5e436]:
+    - generic [ref=f5e437]:
+      - generic [ref=f5e438]: FAQ
+      - heading "Questions, answered." [level=2] [ref=f5e439]
+      - paragraph [ref=f5e440]: Can't find the answer you're looking for? Reach out directly — we're happy to help.
+    - list [ref=f5e441]:
+      - listitem [ref=f5e442]:
+        - button "What does WebGaze actually do?" [expanded] [ref=f5e443]:
+          - generic [aria-hidden] [ref=f5e445]: +
+        - paragraph [ref=f5e448]: WebGaze helps businesses grow online through strategic website design, branding, SEO, and ongoing digital support. We don't just build websites — we create digital experiences designed to attract the right audience and convert them into customers.
+      - listitem [ref=f5e449]:
+        - button "How much does a website cost?" [ref=f5e450]:
+          - generic [aria-hidden] [ref=f5e452]: +
+        - paragraph [ref=f5e453]: Every project is different. Pricing depends on your goals, features, and level of support required. After a quick conversation, we'll recommend a clear, practical solution and provide a custom proposal with no obligation.
+      - listitem [ref=f5e454]:
+        - button "How long does it take to build a website?" [ref=f5e455]:
+          - generic [aria-hidden] [ref=f5e457]: +
+        - paragraph [ref=f5e458]: Most websites are completed within 2–6 weeks, depending on scope and content readiness. We'll give you realistic timelines upfront and keep you informed at every stage of the process.
+      - listitem [ref=f5e459]:
+        - button "Can you redesign or improve an existing website?" [ref=f5e460]:
+          - generic [aria-hidden] [ref=f5e462]: +
+        - paragraph [ref=f5e463]: Absolutely. If your current website feels outdated, slow, or isn't converting, we can audit it, identify opportunities, and redesign or optimise it to perform better — without starting from scratch if it's not necessary.
+      - listitem [ref=f5e464]:
+        - button "Do you offer ongoing support?" [ref=f5e465]:
+          - generic [aria-hidden] [ref=f5e467]: +
+        - paragraph [ref=f5e468]: Yes. We offer website maintenance plans starting from $129/month, covering security updates, backups, performance monitoring, and ongoing peace of mind so your site stays healthy long after launch.
+  - generic [ref=f5e469]:
+    - generic [ref=f5e470]:
+      - paragraph [ref=f5e471]: No pressure. Just next steps.
+      - heading "Let's build something that earns its keep." [level=2] [ref=f5e472]
+      - paragraph [ref=f5e473]: Tell us where you are and where you're headed. We'll handle the strategy, design, and build.
+    - generic [ref=f5e474]:
+      - link [ref=f5e475] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=f5e476]:
+          - text: Request a Proposal
+          - generic [aria-hidden] [ref=f5e477]: →
+      - link "Email Us" [ref=f5e478] [cursor=pointer]:
+        - /url: mailto:hello@webgaze.com.au
+      - paragraph [ref=f5e479]: We typically respond within 1 business day.
+  - contentinfo [ref=f5e480]:
+    - generic [ref=f5e481]:
+      - generic [ref=f5e482]:
+        - generic [ref=f5e483]:
+          - link [ref=f5e484] [cursor=pointer]:
+            - /url: "#"
+            - img "WebGaze" [ref=f5e485]
+          - paragraph [ref=f5e486]: Building high-performance websites, AI-assisted custom systems, and practical digital tools for growing businesses.
+          - generic [ref=f5e487]:
+            - link "LinkedIn" [ref=f5e488] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/webgaze
+            - link "Instagram" [ref=f5e493] [cursor=pointer]:
+              - /url: https://www.instagram.com/webgaze.au
+            - link "X" [ref=f5e497] [cursor=pointer]:
+              - /url: https://x.com/GazeWeb
+        - generic [ref=f5e500]:
+          - paragraph [ref=f5e501]: Services
+          - list [ref=f5e502]:
+            - listitem [ref=f5e503]:
+              - link "Website Design & Development" [ref=f5e504] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e505]:
+              - link "AI & Custom Business Systems" [ref=f5e506] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e507]:
+              - link "Website Maintenance" [ref=f5e508] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e509]:
+              - link "SEO" [ref=f5e510] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e511]:
+              - link "Visual Branding" [ref=f5e512] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e513]:
+              - link "Consulting & Audit" [ref=f5e514] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f5e515]:
+          - paragraph [ref=f5e516]: Company
+          - list [ref=f5e517]:
+            - listitem [ref=f5e518]:
+              - link "Home" [ref=f5e519] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e520]:
+              - link "About" [ref=f5e521] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e522]:
+              - link "Services" [ref=f5e523] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e524]:
+              - link "Projects" [ref=f5e525] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e526]:
+              - link "Insights" [ref=f5e527] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f5e528]:
+          - paragraph [ref=f5e529]: Get In Touch
+          - list [ref=f5e530]:
+            - listitem [ref=f5e531]:
+              - link "0422 169 233" [ref=f5e532] [cursor=pointer]:
+                - /url: tel:+61422169233
+            - listitem [ref=f5e533]:
+              - link "hello@webgaze.com.au" [ref=f5e534] [cursor=pointer]:
+                - /url: mailto:hello@webgaze.com.au
+          - paragraph [ref=f5e535]: Newsletter
+          - generic [ref=f5e536]:
+            - textbox "Your email" [ref=f5e537]
+            - button "Subscribe" [ref=f5e538]: →
+      - generic [ref=f5e539]:
+        - paragraph [ref=f5e540]: © 2026 WebGaze PTY LTD. All rights reserved. ABN 53 694 048 158
+        - generic [ref=f5e541]:
+          - link "Terms & Conditions" [ref=f5e542] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy & Cookie Policy" [ref=f5e543] [cursor=pointer]:
+            - /url: "#"

@@ -1,0 +1,5 @@
+[  611149ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://webgaze-clone.vercel.app/images/logos/agcci.png:0
+[  920643ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://webgaze-clone.vercel.app/images/logos/agcci.png:0
+[ 1102246ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://webgaze-clone.vercel.app/images/logos/agcci.png:0
+[ 1110649ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://webgaze-clone.vercel.app/images/logos/agcci.png:0
+[ 1121513ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_ABORTED @ https://webgaze-clone.vercel.app/images/logos/agcci.png:0

@@ -1,0 +1,138 @@
+- generic [ref=f7e3]:
+  - banner [ref=f7e4]:
+    - generic [ref=f7e5]:
+      - link "Webgaze home" [ref=f7e6] [cursor=pointer]:
+        - /url: "#"
+      - button "Open menu" [ref=f7e7]
+  - generic [ref=f7e12]:
+    - link "All projects" [ref=f7e13] [cursor=pointer]:
+      - /url: /
+      - generic [aria-hidden] [ref=f7e14]: ←
+      - text: All projects
+    - generic [ref=f7e15]:
+      - generic [ref=f7e16]:
+        - generic [ref=f7e17]: Web Design · UI/UX
+        - heading "WINSTAMAC" [level=1] [ref=f7e18]
+      - generic [ref=f7e19]: "03"
+    - img "WINSTAMAC" [ref=f7e22]
+    - paragraph [ref=f7e23]: A selection of recent websites, brand systems, and digital experiences for clients across Australia and beyond.
+    - generic [ref=f7e24]:
+      - link "Start a project" [ref=f7e25] [cursor=pointer]:
+        - /url: /#contact
+      - link "Our services" [ref=f7e26] [cursor=pointer]:
+        - /url: /#services
+    - generic [ref=f7e27]:
+      - generic [ref=f7e28]: More work
+      - generic [ref=f7e31]:
+        - link [ref=f7e32] [cursor=pointer]:
+          - /url: /projects/care-partners-australia
+          - img "Care Partners Australia" [ref=f7e34]
+          - generic [ref=f7e35]:
+            - generic [ref=f7e36]:
+              - paragraph [ref=f7e37]: Web Design · Branding · UI/UX
+              - heading "Care Partners Australia" [level=3] [ref=f7e38]
+            - generic [aria-hidden] [ref=f7e39]: →
+        - link [ref=f7e40] [cursor=pointer]:
+          - /url: /projects/australian-ghanaian-chamber-of-commerce
+          - img "Australian Ghanaian Chamber of Commerce" [ref=f7e42]
+          - generic [ref=f7e43]:
+            - generic [ref=f7e44]:
+              - paragraph [ref=f7e45]: Web Design · Branding
+              - heading "Australian Ghanaian Chamber of Commerce" [level=3] [ref=f7e46]
+            - generic [aria-hidden] [ref=f7e47]: →
+        - link [ref=f7e48] [cursor=pointer]:
+          - /url: /projects/sababa-global
+          - img "Sababa Global Trade & Logistics" [ref=f7e50]
+          - generic [ref=f7e51]:
+            - generic [ref=f7e52]:
+              - paragraph [ref=f7e53]: Web Design · Branding
+              - heading "Sababa Global Trade & Logistics" [level=3] [ref=f7e54]
+            - generic [aria-hidden] [ref=f7e55]: →
+  - generic [ref=f7e56]:
+    - generic [ref=f7e57]:
+      - paragraph [ref=f7e58]: No pressure. Just next steps.
+      - heading "Let's build something that earns its keep." [level=2] [ref=f7e59]
+      - paragraph [ref=f7e60]: Tell us where you are and where you're headed. We'll handle the strategy, design, and build.
+    - generic [ref=f7e61]:
+      - link [ref=f7e62] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=f7e63]:
+          - text: Request a Proposal
+          - generic [aria-hidden] [ref=f7e64]: →
+      - link "Email Us" [ref=f7e65] [cursor=pointer]:
+        - /url: mailto:hello@webgaze.com.au
+      - paragraph [ref=f7e66]: We typically respond within 1 business day.
+  - contentinfo [ref=f7e67]:
+    - generic [ref=f7e68]:
+      - generic [ref=f7e69]:
+        - generic [ref=f7e70]:
+          - link [ref=f7e71] [cursor=pointer]:
+            - /url: "#"
+            - img "WebGaze" [ref=f7e72]
+          - paragraph [ref=f7e73]: Building high-performance websites, AI-assisted custom systems, and practical digital tools for growing businesses.
+          - generic [ref=f7e74]:
+            - link "LinkedIn" [ref=f7e75] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/webgaze
+            - link "Instagram" [ref=f7e80] [cursor=pointer]:
+              - /url: https://www.instagram.com/webgaze.au
+            - link "X" [ref=f7e84] [cursor=pointer]:
+              - /url: https://x.com/GazeWeb
+        - generic [ref=f7e87]:
+          - paragraph [ref=f7e88]: Services
+          - list [ref=f7e89]:
+            - listitem [ref=f7e90]:
+              - link "Website Design & Development" [ref=f7e91] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e92]:
+              - link "AI & Custom Business Systems" [ref=f7e93] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e94]:
+              - link "Website Maintenance" [ref=f7e95] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e96]:
+              - link "SEO" [ref=f7e97] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e98]:
+              - link "Visual Branding" [ref=f7e99] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e100]:
+              - link "Consulting & Audit" [ref=f7e101] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f7e102]:
+          - paragraph [ref=f7e103]: Company
+          - list [ref=f7e104]:
+            - listitem [ref=f7e105]:
+              - link "Home" [ref=f7e106] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e107]:
+              - link "About" [ref=f7e108] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e109]:
+              - link "Services" [ref=f7e110] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e111]:
+              - link "Projects" [ref=f7e112] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f7e113]:
+              - link "Insights" [ref=f7e114] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f7e115]:
+          - paragraph [ref=f7e116]: Get In Touch
+          - list [ref=f7e117]:
+            - listitem [ref=f7e118]:
+              - link "0422 169 233" [ref=f7e119] [cursor=pointer]:
+                - /url: tel:+61422169233
+            - listitem [ref=f7e120]:
+              - link "hello@webgaze.com.au" [ref=f7e121] [cursor=pointer]:
+                - /url: mailto:hello@webgaze.com.au
+          - paragraph [ref=f7e122]: Newsletter
+          - generic [ref=f7e123]:
+            - textbox "Your email" [ref=f7e124]
+            - button "Subscribe" [ref=f7e125]: →
+      - generic [ref=f7e126]:
+        - paragraph [ref=f7e127]: © 2026 WebGaze PTY LTD. All rights reserved. ABN 53 694 048 158
+        - generic [ref=f7e128]:
+          - link "Terms & Conditions" [ref=f7e129] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy & Cookie Policy" [ref=f7e130] [cursor=pointer]:
+            - /url: "#"
